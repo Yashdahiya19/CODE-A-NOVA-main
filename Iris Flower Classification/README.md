@@ -45,5 +45,5 @@ Confusion Matrix
 Classification Report (Precision, Recall, F1-score)
 
 👤 Author
-Anshu Sharma
-B.Tech CSE Student | Aspiring ML & AI Engineer
+Yash Dahiya
+B.Tech CSE Student | Interested in ML & AI 

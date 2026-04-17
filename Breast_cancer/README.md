@@ -33,5 +33,5 @@ Since this is a healthcare-related problem, the model prioritizes high recall to
 ###Tech Stack
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-Anshu Sharma
+Yash Dahiya
 Machine Learning Intern | B.Tech Student

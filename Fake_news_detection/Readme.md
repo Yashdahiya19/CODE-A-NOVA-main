@@ -114,7 +114,7 @@ Possible improvements for the project:
 
 ---
 
-#  Author: Anshu Sharma
+#  Author: Yash Dahiya
 
 B.Tech Student | Interested in AI & Machine Learning
 
